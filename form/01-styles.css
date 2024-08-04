@@ -661,13 +661,13 @@ After the Tag list styles, create a new comment
 /*** FORM ***/
 /* Comment section
     ============================= */
-.post-comments {
+section .post-comments {
 	width: 80%;
 	margin: 10rem 0 0 auto;
 	padding-left: 7rem;
 }
 
-.post-comments .section-title {
+section .post-comments .section-title {
 	font-variant: small-caps;
 }
 
