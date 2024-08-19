@@ -10,7 +10,7 @@ body {
 }
 
 body {
-	.red:first-child {
+	> .red {
 		color: #FF0000;
 	}
 }
