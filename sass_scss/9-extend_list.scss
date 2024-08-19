@@ -9,11 +9,11 @@ Text color #FF0000 to all tags of class .warning and extend style of the class .
 }
 
 .success {
-	@extended .info;
+	@extend .info;
 	color: #00FF00;
 }
 
 .warning {
-	@extended .info;
+	@extend .info;
 	color: #FF0000;
 }
