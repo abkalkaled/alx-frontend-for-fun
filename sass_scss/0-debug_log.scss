@@ -1,0 +1,4 @@
+/*nSass file that printds Hello World*/
+
+$message: "Hello world";
+@debug $message;
